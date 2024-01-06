@@ -11,7 +11,7 @@
 5. [Getting Started](#getting-started)
 6. [Usage](#usage)
 7. [Monitoring and Maintenance](#monitoring-and-maintenance)
-8. [Key Takeaways](#Key Takeaways)
+8. [Key Takeaways](#key-takeaways)
 
 
 ## Introduction
